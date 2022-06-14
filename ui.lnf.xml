@@ -2,7 +2,9 @@
   <component name="UISettings">
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
