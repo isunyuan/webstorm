@@ -1,0 +1,22 @@
+<keymap version="1" name="VSCode (macOS) 副本" parent="VSCode OSX">
+  <action id="ClassNameCompletion" />
+  <action id="CodeCompletion" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="SelectAllOccurrences" />
+  <action id="ShowContent" />
+  <action id="StepOut" />
+</keymap>
