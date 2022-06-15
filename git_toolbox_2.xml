@@ -1,0 +1,11 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="absoluteDateTimeStyle" value="ISO_8601" />
+    <option name="behindTracker" value="false" />
+    <option name="blameInlineAuthorNameType" value="FULL" />
+    <option name="showBlameWidget" value="false" />
+    <option name="showChangesInStatusBar" value="false" />
+    <option name="showProjectViewStatus" value="false" />
+    <option name="showStatusWidget" value="false" />
+  </component>
+</application>
