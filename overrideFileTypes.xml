@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Desktop/isunyuan/next-blog/pages/_document.tsx" value="TypeScript JSX" />
     <file url="file://$USER_HOME$/Desktop/isunyuan/next-blog/styles/globals.scss" value="SCSS" />
   </component>
 </application>
