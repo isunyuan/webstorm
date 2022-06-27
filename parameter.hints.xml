@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="JavaScript">
+        <added pattern="greateContent({contentRef, showSearch, handleSearch, title, renderMenus, value, handleChanged})" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
