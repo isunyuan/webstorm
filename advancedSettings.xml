@@ -2,6 +2,7 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="ide.open.readme.md.on.startup" value="false" />
         <entry key="localHistory.daysToKeep" value="3" />
       </map>
