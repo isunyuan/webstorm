@@ -14,7 +14,6 @@
     <option name="TOOLTIPS_DELAY_MS" value="300" />
     <option name="CARET_BLINKING_PERIOD" value="600" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
-    <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingEnabled" value="false" />
