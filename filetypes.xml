@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="tsx" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsx" type="TypeScript JSX" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="tsx" approved="true" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
