@@ -7,10 +7,8 @@
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping ext="js" type="PLAIN_TEXT" />
       <mapping ext="tsx" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="js" approved="true" type="JavaScript" />
       <removed_mapping ext="tsx" approved="true" type="TypeScript JSX" />
     </extensionMap>
   </component>

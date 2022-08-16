@@ -1,8 +1,15 @@
 <application>
   <component name="OverrideFileTypeManager">
-    <file url="file://$USER_HOME$/Desktop/gitee/gitee-project-frontend-app/src/components/FlowEntry/hooks/configs.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Desktop/gitee/gitee-project-frontend-app/src/components/FlowEntry/hooks/useFlowTypeConfig.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Desktop/gitee/gitee-project-frontend-app/src/components/IssueForm/validator.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Desktop/gitee/gitee-project-frontend-app/src/components/FlowEntry/typeViews/projectChange.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Desktop/isunyuan/blog/src/App.tsx" value="TypeScript JSX" />
+    <file url="file://$USER_HOME$/Desktop/isunyuan/blog/src/components/Home/index.tsx" value="TypeScript JSX" />
+    <file url="file://$USER_HOME$/Desktop/isunyuan/blog/src/components/about.tsx" value="TypeScript JSX" />
+    <file url="file://$USER_HOME$/Desktop/isunyuan/blog/src/components/issue.tsx" value="TypeScript JSX" />
+    <file url="file://$USER_HOME$/Desktop/isunyuan/blog/src/index.tsx" value="TypeScript JSX" />
+    <file url="file://$USER_HOME$/Desktop/isunyuan/blog/src/routers/AppLayout.tsx" value="TypeScript JSX" />
+    <file url="file://$USER_HOME$/Desktop/isunyuan/blog/src/routers/Redirect.tsx" value="TypeScript JSX" />
+    <file url="file://$USER_HOME$/Desktop/isunyuan/blog/src/routers/index.tsx" value="TypeScript JSX" />
+    <file url="file://$USER_HOME$/Desktop/isunyuan/blog/vite.config.ts" value="TypeScript" />
     <file url="file://$USER_HOME$/Desktop/isunyuan/motion-admin/src/utils/cookie.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Desktop/isunyuan/next-blog/styles/globals.scss" value="SCSS" />
   </component>
